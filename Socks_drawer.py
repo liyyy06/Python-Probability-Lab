@@ -14,7 +14,7 @@ for total in range (3, 10):
         if 2 * red * (red -1) == total * (total - 1):
             print("Red:", red)
             print("Black:", black)
-            print("a. Total minimum kaos kaki:", total)
+            print("(a) Minimum number of socks:", total)
 
 # (b)
 for total in range (3, 100):
@@ -25,4 +25,4 @@ for total in range (3, 100):
             if black % 2 == 0 : 
                 print("Red:", red)
                 print("Black:", black)
-                print("b. Total minimum kaos kaki (hitam-genap):", total)
+                print("(b) Minimum number of socks, if black is even:", total)
