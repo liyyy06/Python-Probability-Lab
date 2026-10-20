@@ -12,7 +12,7 @@
 # correct decision = c
 # wrong decision = w
 
-p = 0.8 # randomly choose
+p = 0.8 # randomly choose (80%)
 
 # three-man jury
 # 4 scenario
